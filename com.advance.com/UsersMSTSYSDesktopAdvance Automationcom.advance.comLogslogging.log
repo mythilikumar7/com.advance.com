@@ -19,3 +19,6 @@
 2022-04-10 16:05:10 INFO  StepDefinitionForLogin:140 - Proceeded with Create new button
 2022-04-10 16:05:19 INFO  StepDefinitionForLogin:29 - System navigated to Salesforce page
 2022-04-10 16:05:30 INFO  StepDefinitionForLogin:39 - System validated with salesforce credential
+2022-04-10 23:56:13 INFO  StepDefinitionForLogin:27 - System navigated to community URL
+2022-04-10 23:56:42 INFO  StepDefinitionForLogin:29 - System navigated to Salesforce page
+2022-04-10 23:56:42 INFO  StepDefinitionForLogin:39 - System validated with salesforce credential

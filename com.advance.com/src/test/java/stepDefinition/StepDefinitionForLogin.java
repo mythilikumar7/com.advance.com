@@ -37,7 +37,7 @@ public class StepDefinitionForLogin {
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//input[@class='inputBox input' and @type='password']")).sendKeys("Automation4mst");
 		PropertyConfigurator.configure("logfile.properties");
-		logger.warn("Credential validated");
+		logger.warn("Credential validated and proceeding");
 	  
 	    
 	}
