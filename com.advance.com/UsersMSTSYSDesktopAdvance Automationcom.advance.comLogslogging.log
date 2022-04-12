@@ -22,3 +22,29 @@
 2022-04-10 23:56:13 INFO  StepDefinitionForLogin:27 - System navigated to community URL
 2022-04-10 23:56:42 INFO  StepDefinitionForLogin:29 - System navigated to Salesforce page
 2022-04-10 23:56:42 INFO  StepDefinitionForLogin:39 - System validated with salesforce credential
+2022-04-12 01:20:50 INFO  StepDefinitionForLogin:27 - System navigated to community URL
+2022-04-12 09:21:38 INFO  StepDefinitionForLogin:27 - System navigated to community URL
+2022-04-12 09:21:45 WARN  StepDefinitionForLogin:40 - Credential validated and proceeding
+2022-04-12 09:21:47 WARN  StepDefinitionForLogin:52 - Window closed
+2022-04-12 09:22:08 INFO  StepDefinitionForLogin:34 - By proceeding with the credential successfullly logged in to the portal
+2022-04-12 09:22:34 INFO  StepDefinitionForLogin:29 - System navigated to Salesforce page
+2022-04-12 09:22:34 INFO  StepDefinitionForLogin:39 - System validated with salesforce credential
+2022-04-12 09:24:44 INFO  StepDefinitionForLogin:27 - System navigated to community URL
+2022-04-12 09:24:52 WARN  StepDefinitionForLogin:40 - Credential validated and proceeding
+2022-04-12 09:24:54 WARN  StepDefinitionForLogin:52 - Window closed
+2022-04-12 09:25:16 INFO  StepDefinitionForLogin:34 - By proceeding with the credential successfullly logged in to the portal
+2022-04-12 09:25:36 INFO  StepDefinitionForLogin:42 - Contact searching success
+2022-04-12 09:25:41 INFO  StepDefinitionForLogin:53 - Proceeding with further details
+2022-04-12 09:25:43 INFO  StepDefinitionForLogin:63 - Choosen the academic
+2022-04-12 09:25:43 INFO  StepDefinitionForLogin:70 - Choosen the department
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:78 - Choosen the application type
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:86 - Entered the Graduate
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:93 - checked the FAFSA checkbox
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:101 - Entered the GPA
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:109 - Entered the testscore
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:117 - Entered the SchoolName
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:125 - Entered the Date of birth
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:133 - Entered the Email
+2022-04-12 09:25:44 INFO  StepDefinitionForLogin:140 - Proceeded with Create new button
+2022-04-12 09:25:54 INFO  StepDefinitionForLogin:29 - System navigated to Salesforce page
+2022-04-12 09:26:06 INFO  StepDefinitionForLogin:39 - System validated with salesforce credential
